@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yihsuanlin7.github.io" resolutions="1x" timestamp="1561569082529">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yihsuanlin7.github.io" resolutions="1x" timestamp="1561570409122">
   <folder name="css">
     <file name="site_global.css" crc="70837116"/>
-    <file name="index.css" crc="172207234" ref="index"/>
+    <file name="index.css" crc="3916718334" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="candal-video.mp4" crc="192971216" seo="true" mt="1560768450000"/>
@@ -24,7 +24,7 @@
     <file name="chicken-mobile.jpg" crc="4104521875" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pattern-u557-fr.png" crc="4101463141" ref="phone>index:index"/>
+    <file name="pattern-u557-fr.png" crc="4101463141" ref="phone>index"/>
     <file name="fork.png" crc="86145151" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
@@ -37,7 +37,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="facebook.png" crc="340986201" seo="true" ref="phone>index:index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="twitter.png" crc="216217992" seo="true" ref="phone>index">
@@ -55,19 +54,19 @@
     <file name="u81-r.png" crc="4213103015" ref="index"/>
     <file name="u504_states.png" crc="197227824" ref="index"/>
     <file name="u504_states-r.png" crc="295292665" ref="index"/>
-    <file name="u504_states-a.png" crc="328168108" ref="index"/>
-    <file name="u128_states.png" crc="290124007" ref="index"/>
-    <file name="u128_states-r.png" crc="4061595553" ref="index"/>
-    <file name="u128_states-a.png" crc="190668833" ref="index"/>
-    <file name="u505_states.png" crc="459900481" ref="index"/>
-    <file name="u505_states-r.png" crc="142713810" ref="index"/>
-    <file name="u505_states-a.png" crc="3932524331" ref="index"/>
+    <file name="u504_states-a.png" crc="492408489" ref="index"/>
+    <file name="u128_states.png" crc="3825212920" ref="index"/>
+    <file name="u128_states-r.png" crc="3935975845" ref="index"/>
+    <file name="u128_states-a.png" crc="4138360785" ref="index"/>
+    <file name="u505_states.png" crc="3913947918" ref="index"/>
+    <file name="u505_states-r.png" crc="4029999108" ref="index"/>
+    <file name="u505_states-a.png" crc="4044954541" ref="index"/>
     <file name="u506_states.png" crc="3993216729" ref="index"/>
     <file name="u506_states-r.png" crc="3768491989" ref="index"/>
-    <file name="u506_states-a.png" crc="197222717" ref="index"/>
+    <file name="u506_states-a.png" crc="122008362" ref="index"/>
     <file name="u424-5.png" crc="4016776780" ref="index"/>
-    <file name="u425.png" crc="4085003853" ref="index"/>
-    <file name="u425-r.png" crc="4085003853" ref="index"/>
+    <file name="u425.png" crc="4181199772" ref="index"/>
+    <file name="u425-r.png" crc="4181199772" ref="index"/>
     <file name="蛋糕背景-crop-u967.jpg" crc="4131302817" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -146,6 +145,7 @@
     <file name="pattern.jpg" crc="4213927747" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="pattern-u148-fr.png" crc="4101463141" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -154,5 +154,5 @@
     </folder>
     <file name="index.html" crc="3924473290" seo="true" mt="1399878758906" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4056703039" seo="true" mt="1561568659707" redirect="true"/>
+  <file name="index.html" crc="4215665285" seo="true" mt="1561569964589" redirect="true"/>
 </manifest>
