@@ -1,0 +1,118 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yihsuanlin7.github.io" resolutions="1x" timestamp="1561567582584">
+  <folder name="css">
+    <file name="site_global.css" crc="70837116"/>
+    <file name="index.css" crc="3880206217" ref="index"/>
+    <file name="iefonts_index.css" crc="356618846" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="candal-video.mp4" crc="192971216" seo="true" mt="1560768450000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="310584261" ref="phone>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>index"/>
+    <file name="form-u633.php" crc="401024336" ref="phone>index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="hamburger-u538.png" crc="376565767" ref="phone>index"/>
+    <file name="chicken-mobile.jpg" crc="4104521875" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pattern-u557-fr.png" crc="4101463141" ref="phone>index:index"/>
+    <file name="fork.png" crc="86145151" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="kitchen-mobile.jpg" crc="4060465235" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="noodles-u584.png" crc="3848837566" ref="phone>index"/>
+    <file name="sausage-u616.png" crc="3963094739" ref="phone>index"/>
+    <file name="pub-mobile.jpg" crc="281064783" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="340986201" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="216217992" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="google.png" crc="4243773333" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="圖層 32.png" crc="36008583" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chicken.jpg" crc="168977636" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="蛋糕背景-crop-u967.jpg" crc="4131302817" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="看月曆.png" crc="54691307" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="boom1.png" crc="4135127418" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="封面.jpg" crc="3798882253" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="螢幕快照 2019-06-24 下午124918.jpg" crc="4025868216" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="圖層 2.png" crc="113526642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="螢幕快照 2019-06-24 下午125225.jpg" crc="98226401" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="螢幕快照 2019-06-24 下午125136.jpg" crc="3939503831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="螢幕快照 2019-06-24 下午125051.jpg" crc="4176095628" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="圖層 26.png" crc="381757447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="圖層 1.png" crc="4101225469" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="螢幕快照 2019-06-24 下午21527.jpg" crc="80632888" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的影像 512x512.png" crc="200809131" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的影像 600x600.png" crc="4052167083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="貼上的影像 320x320.jpg" crc="3787500178" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pattern.jpg" crc="4213927747" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="493191291" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="4194645672" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3924473290" seo="true" mt="1399878758906" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="440506921" seo="true" mt="1561477868957" redirect="true"/>
+</manifest>
