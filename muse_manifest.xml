@@ -1,8 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yihsuanlin7.github.io" resolutions="1x" timestamp="1561567582584">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="yihsuanlin7.github.io" resolutions="1x" timestamp="1561568660771">
   <folder name="css">
     <file name="site_global.css" crc="70837116"/>
-    <file name="index.css" crc="3880206217" ref="index"/>
-    <file name="iefonts_index.css" crc="356618846" ref="index"/>
+    <file name="index.css" crc="172207234" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="candal-video.mp4" crc="192971216" seo="true" mt="1560768450000"/>
@@ -19,7 +18,6 @@
     <file name="form-u633.php" crc="401024336" ref="phone>index"/>
     <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
     <file name="require.js" crc="7928878" ref="phone>index:index"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
   </folder>
   <folder name="images">
     <file name="hamburger-u538.png" crc="376565767" ref="phone>index"/>
@@ -52,12 +50,29 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="chicken.jpg" crc="168977636" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u81.png" crc="4213103015" ref="index"/>
+    <file name="u81-r.png" crc="4213103015" ref="index"/>
+    <file name="u504_states.png" crc="197227824" ref="index"/>
+    <file name="u504_states-r.png" crc="295292665" ref="index"/>
+    <file name="u504_states-a.png" crc="328168108" ref="index"/>
+    <file name="u128_states.png" crc="290124007" ref="index"/>
+    <file name="u128_states-r.png" crc="4061595553" ref="index"/>
+    <file name="u128_states-a.png" crc="190668833" ref="index"/>
+    <file name="u505_states.png" crc="459900481" ref="index"/>
+    <file name="u505_states-r.png" crc="142713810" ref="index"/>
+    <file name="u505_states-a.png" crc="3932524331" ref="index"/>
+    <file name="u506_states.png" crc="3993216729" ref="index"/>
+    <file name="u506_states-r.png" crc="3768491989" ref="index"/>
+    <file name="u506_states-a.png" crc="197222717" ref="index"/>
+    <file name="u424-5.png" crc="4016776780" ref="index"/>
+    <file name="u425.png" crc="4085003853" ref="index"/>
+    <file name="u425-r.png" crc="4085003853" ref="index"/>
     <file name="蛋糕背景-crop-u967.jpg" crc="4131302817" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u502.png" crc="4005653710" ref="index"/>
+    <file name="u502-r.png" crc="4005653710" ref="index"/>
     <file name="看月曆.png" crc="54691307" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -67,10 +82,17 @@
     <file name="封面.jpg" crc="3798882253" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u456-4.png" crc="157615340" ref="index"/>
+    <file name="u457-4.png" crc="3856881772" ref="index"/>
+    <file name="u156-4.png" crc="420172239" ref="index"/>
     <file name="螢幕快照 2019-06-24 下午124918.jpg" crc="4025868216" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="圖層 2.png" crc="113526642" seo="true" ref="index">
+    <file name="u168.png" crc="238051859" ref="index"/>
+    <file name="u168-r.png" crc="238051859" ref="index"/>
+    <file name="u174.png" crc="4081716904" ref="index"/>
+    <file name="u174-r.png" crc="4081716904" ref="index"/>
+    <file name="圖層 2.png" crc="295629636" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -79,21 +101,38 @@
     <file name="螢幕快照 2019-06-24 下午125225.jpg" crc="98226401" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u196.png" crc="404573989" ref="index"/>
+    <file name="u196-r.png" crc="404573989" ref="index"/>
+    <file name="u197.png" crc="4219735567" ref="index"/>
+    <file name="u197-r.png" crc="4219735567" ref="index"/>
     <file name="螢幕快照 2019-06-24 下午125136.jpg" crc="3939503831" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u202.png" crc="3868637982" ref="index"/>
+    <file name="u202-r.png" crc="3868637982" ref="index"/>
+    <file name="u203.png" crc="17504463" ref="index"/>
+    <file name="u203-r.png" crc="17504463" ref="index"/>
     <file name="螢幕快照 2019-06-24 下午125051.jpg" crc="4176095628" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u208.png" crc="512943891" ref="index"/>
+    <file name="u208-r.png" crc="512943891" ref="index"/>
+    <file name="u209.png" crc="348383551" ref="index"/>
+    <file name="u209-r.png" crc="348383551" ref="index"/>
+    <file name="u217-4.png" crc="462022519" ref="index"/>
     <file name="圖層 26.png" crc="381757447" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="圖層 1.png" crc="4101225469" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u225-4.png" crc="319690628" ref="index"/>
     <file name="螢幕快照 2019-06-24 下午21527.jpg" crc="80632888" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u363-4.png" crc="216680432" ref="index"/>
+    <file name="u364-4.png" crc="3882013812" ref="index"/>
+    <file name="u366-4.png" crc="3914905442" ref="index"/>
     <file name="貼上的影像 512x512.png" crc="200809131" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -103,6 +142,7 @@
     <file name="貼上的影像 320x320.jpg" crc="3787500178" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u1273-4.png" crc="297058327" ref="index"/>
     <file name="pattern.jpg" crc="4213927747" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -114,5 +154,5 @@
     </folder>
     <file name="index.html" crc="3924473290" seo="true" mt="1399878758906" redirect="true"/>
   </folder>
-  <file name="index.html" crc="440506921" seo="true" mt="1561477868957" redirect="true"/>
+  <file name="index.html" crc="4056703039" seo="true" mt="1561568659707" redirect="true"/>
 </manifest>
